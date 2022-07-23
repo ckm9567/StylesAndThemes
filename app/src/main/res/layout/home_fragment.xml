@@ -72,7 +72,7 @@
                 android:layout_marginTop="13dp"
                 android:text="@string/gdgs_are"
                 android:textAllCaps="false"
-                android:textAppearance="@style/TextAppearance.Title"
+                android:textAppearance="@style/TextAppearance.Subtitle"
                 app:layout_constraintEnd_toStartOf="@id/end_guideline"
                 app:layout_constraintStart_toEndOf="@id/start_guideline"
                 app:layout_constraintTop_toBottomOf="@+id/intro_text" />
